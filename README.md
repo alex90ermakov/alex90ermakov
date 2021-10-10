@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex90ermakov
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: telegram @AlexErm90
 
 <!---
