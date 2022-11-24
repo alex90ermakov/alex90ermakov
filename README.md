@@ -13,7 +13,7 @@
 
 ---
 <div align="center">
-  <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" width="600" height="300"/>
+  <img src="https://www.testgrid.io/wassets/img/screens/homepage-hero-graphic.png" width="500" height="300"/>
 </div>
 
 ---
