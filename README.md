@@ -1,14 +1,13 @@
-<div id="header" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/alexermakov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="bottom"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="100" align="bottom"/>  
+  <a href="https://vk.com/alex_ermakov90">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
+  </a>
   <a href="https://t.me/AlexErm90">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge" align="bottom"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=alex90ermakov&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
