@@ -27,7 +27,7 @@
 
 - 👋 Hi, I’m @alex90ermakov
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alexermakov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexermakov/)
 
 ---
@@ -37,12 +37,12 @@
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PYCHARM" **alt="PYCHARM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PYTEST" **alt="PYTEST" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SELENIUM" **alt="SELENIUM" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SELENIUM" **alt="SELENIUM" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" **alt="GIT" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/> -->
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" **alt="JIRA" width="40" height="40"/>
 </div>
