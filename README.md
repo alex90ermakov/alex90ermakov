@@ -35,8 +35,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" **alt="JavaScript" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PYCHARM" **alt="PYCHARM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PYTEST" **alt="PYTEST" width="40" height="40"/>
@@ -50,12 +51,10 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex90ermakov&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alex90ermakov&show_icons=true&locale=en" alt="alex90ermakov" /></p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex90ermakov&show_icons=true&locale=en&layout=compact" alt="alex90ermakov" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex90ermakov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 <!---
 alex90ermakov/alex90ermakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
