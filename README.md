@@ -1,7 +1,9 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<div id="greeting" align="center">
+    <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="600"/>
 </div>
+
+---
+
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/alexermakov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,23 +15,40 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alex90ermakov&style=flat-square&color=blue" alt=""/>
 </div> 
 
 ---
-<div align="center">
-  <img src="https://www.testgrid.io/wassets/img/screens/homepage-hero-graphic.png" width="500" height="300"/>
-</div>
-
----
 
 ### :man_technologist: About Me :
+```yaml
+name: Aleksey Ermakov
+located_in: Russian Federation 
+current_job: QA Engineer
+education: Self-Taught QA Engineer  
+company: Unit
 
-- 👋 Hi, I’m @alex90ermakov
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning JavaScript and Python
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alexermakov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexermakov/)
+fields_of_interests:
+  [
+    "Quality Assurance",
+    "Automation testing",
+    "UI/UX"
+  ]
+technical_background:
+  [
+    "Technical Support Specialist",
+    "Manual QA Engineer",
+    "Intern - Automation QA Engineer in JavaScript"
+  ]
+  
+currently_learning: ["Python, Frontend Development"]
+2022 Goals: ["Established the testing process on the project as the only tester"]
+hobbies: ["Gaming", "Cinema", "Art"]
+```
 
 ---
 
