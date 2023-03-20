@@ -57,8 +57,8 @@ hobbies: ["Gaming", "Cinema", "Art"]
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" **alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" **alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="CYPRESS" **alt="cypress" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PYCHARM" **alt="PYCHARM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PYTEST" **alt="PYTEST" width="40" height="40"/>
@@ -72,9 +72,9 @@ hobbies: ["Gaming", "Cinema", "Art"]
 ---
 
 ### :fire: My Stats :
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alex90ermakov&show_icons=true&locale=en" alt="alex90ermakov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex90ermakov&show_icons=true&locale=en&layout=" alt="alex90ermakov" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex90ermakov&show_icons=true&locale=en&layout=compact" alt="alex90ermakov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex90ermakov&show_icons=true&locale=en" alt="alex90ermakov" /></p>
 
 
 <!---
