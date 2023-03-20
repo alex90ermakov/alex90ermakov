@@ -42,10 +42,10 @@ technical_background:
   [
     "Technical Support Specialist",
     "Manual QA Engineer",
-    "Intern - Automation QA Engineer in JavaScript"
+    "Intern - Automation QA Engineer on JavaScript"
   ]
   
-currently_learning: ["Python, Frontend Development"]
+currently_learning: ["Python, JavaScript, QA Automation"]
 2022 Goals: ["Established the testing process on the project as the only tester"]
 hobbies: ["Gaming", "Cinema", "Art"]
 ```
