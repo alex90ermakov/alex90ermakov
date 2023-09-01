@@ -72,7 +72,7 @@ hobbies: ["Gaming", "Cinema", "Art"]
 ---
 
 ### :fire: My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex90ermakov&show_icons=true&locale=en&layout=" alt="alex90ermakov" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex90ermakov&show_icons=true&locale=en" alt="alex90ermakov" /></p>
 
