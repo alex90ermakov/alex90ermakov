@@ -46,7 +46,7 @@ technical_background:
   ]
   
 currently_learning: ["JavaScript, QA Automation"]
-2022 Goals: ["Established the testing process on the project as the only tester"]
+2022 Goals: ["Established the testing process on the project as the sole tester"]
 hobbies: ["Gaming", "Cinema", "Art"]
 ```
 
