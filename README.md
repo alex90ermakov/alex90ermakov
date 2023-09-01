@@ -72,10 +72,8 @@ hobbies: ["Gaming", "Cinema", "Art"]
 ---
 
 ### :fire: My Stats :
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex90ermakov&show_icons=true&locale=en" alt="alex90ermakov" /></p>
-
+<p><img align="center" src="https://www.codewars.com/users/alex90ermakov/badges/large" alt="alex9ermakov" width="480" /></p>
 
 <!---
 alex90ermakov/alex90ermakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
