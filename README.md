@@ -45,7 +45,7 @@ technical_background:
     "Intern - Automation QA Engineer on JavaScript"
   ]
   
-currently_learning: ["Python, JavaScript, QA Automation"]
+currently_learning: ["JavaScript, QA Automation"]
 2022 Goals: ["Established the testing process on the project as the only tester"]
 hobbies: ["Gaming", "Cinema", "Art"]
 ```
@@ -57,8 +57,8 @@ hobbies: ["Gaming", "Cinema", "Art"]
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" **alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="CYPRESS" **alt="cypress" width="40" height="40"/>
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" **alt="JavaScript" width="40" height="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="CYPRESS" **alt="cypress" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PYCHARM" **alt="PYCHARM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PYTEST" **alt="PYTEST" width="40" height="40"/>
