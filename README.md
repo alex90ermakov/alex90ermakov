@@ -64,7 +64,7 @@ hobbies: ["Gaming", "Cinema", "Art"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PYTEST" **alt="PYTEST" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SELENIUM" **alt="SELENIUM" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" **alt="GIT" width="40" height="40"/>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/> -->
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" **alt="JIRA" width="40" height="40"/>
 </div>
