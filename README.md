@@ -65,7 +65,9 @@ hobbies: ["Gaming", "Cinema", "Art"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SELENIUM" **alt="SELENIUM" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" **alt="GIT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>  
+  <img src="https://camo.githubusercontent.com/2e445a65779a83c712f40538f97180ddd27a4db754c9b2d065b897812191e62d/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f76752f3337313639362f7376672f3337313639362e737667" title="DevTools" alt="DevTools" width="40" height="40" data-canonical-src="https://iconape.com/wp-content/files/vu/371696/svg/371696.svg" style="max-width: 100;">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" style="max-width: 100;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" **alt="JIRA" width="40" height="40"/>
 </div>
 
