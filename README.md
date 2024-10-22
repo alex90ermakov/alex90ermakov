@@ -30,7 +30,7 @@ name: Aleksey Ermakov
 located_in: Russian Federation 
 current_job: QA Engineer
 education: Self-Taught QA Engineer  
-company: Unit
+company: IT-One
 
 fields_of_interests:
   [
