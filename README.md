@@ -42,11 +42,13 @@ technical_background:
   [
     "Technical Support Specialist",
     "Manual QA Engineer",
-    "Intern - Automation QA Engineer on JavaScript"
+    "Intern - Automation QA Engineer on Java"
   ]
   
-currently_learning: ["JavaScript, QA Automation"]
+currently_learning: ["Java, QA Automation"]
 2022 Goals: ["Established the testing process on the project as the sole tester"]
+2024 Goals: ["Learning new programming language"]
+2025 Goals: ["Start new career as an automation test engineer"]
 hobbies: ["Gaming", "Cinema", "Art"]
 ```
 
@@ -57,7 +59,7 @@ hobbies: ["Gaming", "Cinema", "Art"]
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" **alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" **alt="Java" width="40" height="40"/>
   <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" title="CYPRESS" **alt="cypress" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PYCHARM" **alt="PYCHARM" width="40" height="40"/>
@@ -65,8 +67,7 @@ hobbies: ["Gaming", "Cinema", "Art"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SELENIUM" **alt="SELENIUM" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" **alt="GIT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL" **alt="POSTGRESQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>  
-  <img src="https://camo.githubusercontent.com/2e445a65779a83c712f40538f97180ddd27a4db754c9b2d065b897812191e62d/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f76752f3337313639362f7376672f3337313639362e737667" title="DevTools" alt="DevTools" width="40" height="40" data-canonical-src="https://iconape.com/wp-content/files/vu/371696/svg/371696.svg" style="max-width: 100;">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="POSTMAN" **alt="POSTMAN" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" style="max-width: 100;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" **alt="JIRA" width="40" height="40"/>
 </div>
